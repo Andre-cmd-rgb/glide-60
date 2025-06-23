@@ -33,6 +33,12 @@ Bruh so i just realised it has not enough pins so i'm going to look for an alter
 
 I will be writing a custom firmware in micropython using this lib(https://github.com/Heerkog/MicroPythonBLEHID), hoping that it works.
 
-[insert pictures of what you're working on!]
+Now i got bored so i swiched to looking at keycaps material and found this nice White Matte pla from bambu:
+https://eu.store.bambulab.com/it/products/pla-matte?id=42996742586587
+Also for special keys i would use two different colours(first is blue second orange, always matte):
+https://eu.store.bambulab.com/it/products/pla-matte?id=42996751073499
+https://eu.store.bambulab.com/it/products/pla-matte?id=42996742652123
+
+I Know this is getting expensive but tbh i want this keyboard to be super easy to recreate and easly fixable, and with 3d printed parts you don't have to worry if parts go out of stock or pay for shipping.
 
 **Total time spent: 2h**
