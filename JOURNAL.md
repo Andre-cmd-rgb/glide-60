@@ -12,7 +12,7 @@ Today i created the repo, made the pull request and started thinking about all t
 I chose the Choc Louder Keycaps (https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing) because they looked super good and would also be super cheap to make; they are 18x18x5.4mm. For testing they will be printed in white PLA. Btw my printer is a creality CR10-S i had it for a while now and i have to recalibrate it every time i print😭.
 
 so now i have this:
-- case idea( a white case in PLA)
+- case idea( a white case in PLA thinking about the marble pla from bambu(https://eu.store.bambulab.com/products/pla-marble?id=43964050964699))
 - keycaps (withe and special keys coloured)
 - pcb idea (thinking about a 19x19mm grid because my keycaps are 18x18mm so i have 1mm between each key.)(pcb will be black because it looks soo good)
 
