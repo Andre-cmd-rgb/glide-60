@@ -20,9 +20,11 @@ i need some swiches and obviously i can buy the Kailh Low Profile Choc Switches 
 
 While i'm writing this essay my poor printer is printing an example of how the keycap will look like.
 Ok here it is, NOT GREAT:
+
 ![bruh](https://github.com/Andre-cmd-rgb/glide-60/blob/master/Pictures/fail.png)
 
 anyways they should look like this:
+
 ![lol](https://github.com/Andre-cmd-rgb/glide-60/blob/master/Pictures/keycaps.png)
 
 In the meantime i will try to get more info about the pcb and parts a i need.
