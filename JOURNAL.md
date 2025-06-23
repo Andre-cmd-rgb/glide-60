@@ -40,6 +40,10 @@ Also for special keys i would use two different colours(first is blue second ora
 https://eu.store.bambulab.com/it/products/pla-matte?id=42996751073499
 https://eu.store.bambulab.com/it/products/pla-matte?id=42996742652123
 
-***I Know this is getting expensive but tbh i want this keyboard to be super easy to recreate and easly fixable, and with 3d printed parts you don't have to worry if parts go out of stock or pay for shipping.***
 
-**Total time spent: 2h**
+not gonna lie a few hours have passed in wich i designed a fully custom flat keycap, and a swich.
+Tomorrow moring i will try to print and assemble them hoping that they work!!
+
+**Total time spent: 4h**
+
+***I Know this is getting expensive but tbh i want this keyboard to be super easy to recreate and easly fixable, and with 3d printed parts you don't have to worry if parts go out of stock or pay for shipping.***
