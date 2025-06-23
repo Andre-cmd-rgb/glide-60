@@ -18,8 +18,9 @@ so now i have this:
 
 i need some swiches and obviously i can buy the Kailh Low Profile Choc Switches (https://splitkb.com/products/kailh-low-profile-choc-switches) but tbh i really don't want to deal with their mesurments and stuff so i was thinking about making my own switches but we'll see about that.
 
-While i'm writing this essay my poor printer is printing an example of how the keycap will look like
-[put the flippin pic here]
+While i'm writing this essay my poor printer is printing an example of how the keycap will look like.
+Ok here it is, NOT GREAT:
+![bruh](https://github.com/Andre-cmd-rgb/glide-60/blob/master/Pictures/image.png)
 
 In the meantime i will try to get more info about the pcb and parts a i need.
 I am looking at the XIAO ESP32 C3 because it has ble and should be pretty cheap and small.
