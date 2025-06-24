@@ -7,19 +7,20 @@ created_at: "2025-06-23"
 
 # June 23th: Day One!!!
 
-Today i created the repo, made the pull request and started thinking about all the components i will need to build the keyboard, effectively making a first and temporary BOM.
+Today i created the repo, made the pull request and started thinking about all the components i will need to build the keyboard, effectively making a temporary BOM.
 
-I chose the Choc Louder Keycaps (https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing) because they looked super good and would also be super cheap to make; they are 18x18x5.4mm. For testing they will be printed in white PLA. Btw my printer is a creality CR10-S i had it for a while now and i have to recalibrate it every time i print😭.
+For my keyboard i chose the Choc Louder Keycaps (https://www.printables.com/model/1066117-choc-louder-keycaps-choc-and-mx-spacing) because they looked super good and would also be super cheap to make; they are 18x18x5.4mm. For testing they will be printed in white PLA.
+(Btw my printer is a creality CR10-S i had it for a while now and i have to recalibrate it every time i print😭.)
 
-so now i have this:
-- case idea( a white case in PLA thinking about the marble pla from bambu(https://eu.store.bambulab.com/products/pla-marble?id=43964050964699))
+This is what i'm working with:
+- case idea (a white case in PLA thinking about the marble pla from bambu(https://eu.store.bambulab.com/products/pla-marble?id=43964050964699))
 - keycaps (withe and special keys coloured)
 - pcb idea (thinking about a 19x19mm grid because my keycaps are 18x18mm so i have 1mm between each key.)(pcb will be black because it looks soo good)
 
-i need some swiches and obviously i can buy the Kailh Low Profile Choc Switches (https://splitkb.com/products/kailh-low-profile-choc-switches) but tbh i really don't want to deal with their mesurments and stuff so i was thinking about making my own switches but we'll see about that.
+I need some swiches and obviously i can buy the Kailh Low Profile Choc Switches (https://splitkb.com/products/kailh-low-profile-choc-switches) but tbh i really don't want to deal with their mesurments and stuff so i was thinking about making my own switches but we'll see about that.
 
 While i'm writing this essay my poor printer is printing an example of how the keycap will look like.
-Ok here it is, NOT GREAT:
+Ok here it is, NOT LOOKING GREAT:
 
 ![bruh](https://github.com/Andre-cmd-rgb/glide-60/blob/master/Pictures/fail.png)
 
@@ -42,8 +43,13 @@ https://eu.store.bambulab.com/it/products/pla-matte?id=42996742652123
 
 
 not gonna lie a few hours have passed in wich i designed a fully custom flat keycap, and a swich.
+Here are the pictures of the designs:
+
 Tomorrow moring i will try to print and assemble them hoping that they work!!
 
 **Total time spent: 4h**
 
-***I Know this is getting expensive but tbh i want this keyboard to be super easy to recreate and easly fixable, and with 3d printed parts you don't have to worry if parts go out of stock or pay for shipping.***
+
+# June 24th
+
+So yesterday was a mess but i still need to start somewhere right??
