@@ -100,3 +100,6 @@ Now here's a recap of what are the features i want for my keyboard:
 - Low profile keycaps (with letters on them)
 
 For the case design i will have to wait a bit because i still need to design the pcb so i have some mesurements. In any case i will be using the matte pla from Bambulab because i think it looks great and adds a bit of texture to just plain white pla.
+
+Regarding the swiches there isn't much to say just that i will be using the Kailh Hotswap Sockets so the keyboard has hot swappable switches.
+
